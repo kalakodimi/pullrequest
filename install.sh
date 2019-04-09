@@ -1,3 +1,4 @@
 ls
 pwd
-qawsedfg
+mkdir test
+ls
